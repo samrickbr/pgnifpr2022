@@ -1,4 +1,5 @@
 <html>
+    <?php include "/css/style.css" ?>
     <header>
         <div>
             <form>
